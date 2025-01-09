@@ -4,8 +4,6 @@ global class AadharMaskingDataPostAPI {
     private static String contentDocId ;
     @testVisible
     private static String base64data ;
-    @testVisible
-    private static String maskedStatus ;
     
 
     @HttpPost
